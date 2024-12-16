@@ -6,3 +6,9 @@ body{
 pre{
     font-size: large;
 }
+
+.input_container{
+    background-color: blueviolet;
+    font-size: large;
+    padding: 14px;
+}
