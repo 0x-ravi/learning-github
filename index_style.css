@@ -12,3 +12,17 @@ pre{
     font-size: large;
     padding: 14px;
 }
+
+.virat_kohli{
+    background-color: whitesmoke;
+    font-size: large;
+    padding: 15px;
+    width: 70%;
+    border: 13px ridge black;
+    border-radius: 15px;
+    background-image: url("virat.jpg");
+}
+
+.virat_kohli h2{
+    text-shadow: 5px 5px 15px blue, 5px 5px 15px blue, 5px 5px 15px blue;
+}
