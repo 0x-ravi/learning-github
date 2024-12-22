@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hello there,<br>
 I'm 0x_ravi, a professional Ethical Hacker<br>
@@ -8,5 +9,10 @@ reflects to the local repository or not. If yes, I'll pull the changes to the lo
 
 <br>
 I'm writing this line in the Project 1 branch.
+<br>
+
+It is my first line in the error_fix brnch, and I'm writing it on the GitHub not through Git or local copy.
+<br>
+Hello there,
 <br>
 
