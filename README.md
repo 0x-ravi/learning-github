@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Hello there,<br>
 I'm 0x_ravi, a professional Ethical Hacker<br>
